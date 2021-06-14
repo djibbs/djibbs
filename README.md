@@ -1,5 +1,5 @@
 # README.md
-> echo read (README.markdown) in to be appeared on, in the profile!
+[To be appeared on profile !](https://github.com/djibbs)
 - 👋 Hi, I’m @djibbs
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
