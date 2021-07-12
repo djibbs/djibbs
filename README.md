@@ -1,7 +1,6 @@
-# README.md
-To be appeared on [profile !](https://github.com/djibbs)
-- 👋 Hi, I’m [@djibbs](https://github.com/djibbs)
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ... [GitHub](https://Github.com/Github)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# What's up git? 
+- 👋 Hi, I am @djibbs
+- 👀 I’m, interested in education & creativity so on.
+- 🌱 I’m, currently learning plenty of new things.
+- 💞️ I’m, looking to collaborate on GitHub.
+- 📫 How to reach me, write me!
